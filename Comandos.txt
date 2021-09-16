@@ -13,7 +13,11 @@ git remote add origin git@github.com:jpcarvalhoi/cursogit.git
 git push -u origin master
 git push <remote> <branch> 
 
+ver a configuração dos repositorios remotos
 git remove -v
 
 configurando a branch remota
 git push -u origin master
+
+
+
