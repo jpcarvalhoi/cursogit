@@ -22,5 +22,17 @@ git push -u origin master
 atualiza o repositorio local com os commits remotos
 git pull 
 
+******* Criando branch ******
+
+cria uma nova branch
+git branch <nova>
+
+excluir
+git branch -d <branch>
+
+***** mudando para uma nova branch
+git checkout <branch>
+
+
 
 
