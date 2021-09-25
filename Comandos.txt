@@ -19,5 +19,8 @@ git remove -v
 configurando a branch remota
 git push -u origin master
 
+atualiza o repositorio local com os commits remotos
+git pull 
+
 
 
