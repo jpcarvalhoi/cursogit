@@ -33,8 +33,9 @@ git branch -d <branch>
 ***** mudando para uma nova branch
 git checkout <branch>
 
+****** fazendo merge **********************
 
-
+git merge <branch>
 
 
 
