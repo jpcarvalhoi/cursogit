@@ -22,5 +22,8 @@ git push -u origin master
 atualiza o repositorio local com os commits remotos
 git pull 
 
+****** fazendo merge **********************
+
+git merge <branch>
 
 
