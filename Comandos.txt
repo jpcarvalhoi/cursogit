@@ -24,10 +24,13 @@ git pull
 
 ******* Criando branch ******
 
-cria uma nova branch
+*** cria uma nova branch *******
 git branch <nova>
 
-excluir
+***** cria a branch e já muda para ela******
+git checkout -b <branch>
+
+**** excluir
 git branch -d <branch>
 
 ***** mudando para uma nova branch
@@ -37,5 +40,17 @@ git checkout <branch>
 
 git merge <branch>
 
+******** gitignore
+
+**exemplos:
+.project 
+node_modules/
+**/*.css
+
+********You could specify what branch you want to pull:
+git pull origin master
+
+git branch --set-upstream-to=origin/master master
+git pull
 
 
